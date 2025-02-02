@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hksvibes
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning puthon
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
